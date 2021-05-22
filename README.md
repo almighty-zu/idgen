@@ -1,0 +1,1 @@
+Welcome to Id Generator. Yhis package contains simple function that let you generate random ID. It requires just one argument defining the length of the random id. 
